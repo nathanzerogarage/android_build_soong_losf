@@ -246,6 +246,7 @@ qcom.fmradio
 
 # Xiaomi stuffs
 com.xiaomi.ims
+com.xiaomi.internal.telephony
 
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
